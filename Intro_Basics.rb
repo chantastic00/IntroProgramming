@@ -1,7 +1,7 @@
 puts "Ex1" 
 firstname = "Brian"
 lastname = "Wang"
-puts firstname +" " + lastname
+puts firstname + " " + lastname
 puts
 
 puts "Ex2"
